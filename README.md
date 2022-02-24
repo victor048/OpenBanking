@@ -1,2 +1,3 @@
 # OpenBanking
-Tratamento de dados consumindo API do OpenBankink
+Tratamento de dados consumindo API do OpenBankink, Incompleto
+
